@@ -65,12 +65,3 @@ If you'd like to help support my open source work please consider sponsoring me 
 * [EchoVault](https://github.com/EchoVault/EchoVault)
 * [yahoo_fantasy_api](https://github.com/spilchen/yahoo_fantasy_api)
 * [nhl-twitter-bot](https://github.com/mattdonders/nhl-twitter-bot)
-* [awesome-storj](https://github.com/storj/awesome-storj)
-
-## Articles I write
-<!-- WORDPRESS:START-->
-- [Persistent URI permissions in Android](https://www.wochstudios.com/persistent-uri-permissions-in-android/)
-- [Searching for MongoDB object Ids in Li3](https://www.wochstudios.com/searching-for-mongodb-object-ids-in-li3/)
-- [Soundboard Tutorial](https://www.wochstudios.com/soundboard-tutorial/)
-<!-- WORDPRESS:END-->
-

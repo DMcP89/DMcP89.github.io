@@ -41,9 +41,9 @@ jobs:
       - name: Build
         run: |
           xlog \
+          -custom_css custom.css \
           --build . \
           --sitename "DMcP89"
-          -custom_css custom.css
           rm *.md
           chmod -R 0777 .
 

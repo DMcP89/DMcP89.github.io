@@ -43,7 +43,9 @@ jobs:
           xlog \
           -custom_css custom.css \
           --build . \
-          --sitename "DaveMcPherson.dev"
+          --sitename "davemcpherson.dev" \
+          --og.domain blog.davemcpherson.dev \
+          --github.url https://github.com/DMcP89/DMcP89.github.io
           rm *.md
           chmod -R 0777 .
 

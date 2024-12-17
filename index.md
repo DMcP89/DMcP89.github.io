@@ -1,10 +1,11 @@
-# Hi, I'm Dave
-I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Siren Solutions as a Senior Implementation Consultant. I like to building things. 
+<h1>Hi, I'm Dave</h1>
+<div class="profile-container">
+<img src="https://avatars.githubusercontent.com/u/4146149?v=4" class="profile-image" style="display: flex;"/>
+<p class="profile-text"> I am a Co-Founder of WOCH Studios and a Full Stack Developer. I currently work at Siren Solutions as a Senior Implementation Consultant. I like to build things. 
+</div>
 
-If you'd like to help support my open source work please consider sponsoring me on GitHub
-
+If you'd like to help support my open-source work please consider sponsoring me on GitHub</p>
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/DMcP89)
-
 
 ## Projects I maintain
 * [harambot](https://github.com/DMcP89/harambot)
@@ -16,3 +17,5 @@ If you'd like to help support my open source work please consider sponsoring me 
 * [EchoVault](https://github.com/EchoVault/EchoVault)
 * [yahoo_fantasy_api](https://github.com/spilchen/yahoo_fantasy_api)
 * [nhl-twitter-bot](https://github.com/mattdonders/nhl-twitter-bot)
+
+

@@ -43,7 +43,7 @@ jobs:
           xlog \
           -custom_css custom.css \
           --build . \
-          --sitename "davemcpherson.dev" \
+          --sitename "DaveMcPherson.dev" \
           --og.domain davemcpherson.dev \
           rm *.md
           chmod -R 0777 .

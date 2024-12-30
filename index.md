@@ -6,18 +6,10 @@
 
 I am a skilled engineer with over a decade of experience in complex distributed systems across diverse environments. Quick to adopt new technologies, I specialize in efficient, secure solutions and have an automation-first approach, designing build and deployment pipelines to optimize time-to-market, reduce outages, and ease maintenance.
 
+## What I'm working on
+[![DMcP89/harambot - GitHub](https://gh-card.dev/repos/DMcP89/harambot.svg)](https://github.com/DMcP89/harambot) [![DMcP89/tinycare-tui - GitHub](https://gh-card.dev/repos/DMcP89/tinycare-tui.svg)](https://github.com/DMcP89/tinycare-tui) 
+[![DMcP89/todoist_cli - GitHub](https://gh-card.dev/repos/DMcP89/todoist_cli.svg)](https://github.com/DMcP89/todoist_cli) [![EchoVault/SugarDB - GitHub](https://gh-card.dev/repos/EchoVault/SugarDB.svg)](https://github.com/EchoVault/SugarDB) 
+[![spilchen/yahoo_fantasy_api - GitHub](https://gh-card.dev/repos/spilchen/yahoo_fantasy_api.svg)](https://github.com/spilchen/yahoo_fantasy_api) [![josuebrunel/yahoo-oauth - GitHub](https://gh-card.dev/repos/josuebrunel/yahoo-oauth.svg)](https://github.com/josuebrunel/yahoo-oauth) 
+
 If you'd like to help support my open-source work please consider sponsoring me on GitHub.</p>
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/DMcP89)
-
-## Projects I maintain
-* [harambot](https://github.com/DMcP89/harambot)
-* [tinycare-tui](https://github.com/DMcP89/tinycare-tui)
-* [yahoo-oauth](https://github.com/josuebrunel/yahoo-oauth)
-* [todoist_cli](https://github.com/DMcP89/todoist_cli)
-
-## Projects I contribute to
-* [EchoVault](https://github.com/EchoVault/EchoVault)
-* [yahoo_fantasy_api](https://github.com/spilchen/yahoo_fantasy_api)
-* [nhl-twitter-bot](https://github.com/mattdonders/nhl-twitter-bot)
-
-

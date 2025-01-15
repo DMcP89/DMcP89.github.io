@@ -31,7 +31,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v3
         with:
-          go-version: 1.22
+          go-version: 1.23
           check-latest: true
 
       - name: Install xlog
@@ -41,7 +41,7 @@ jobs:
       - name: Build
         run: |
           xlog \
-          -custom_css custom.css \
+          -custom.head custom.head \
           --build . \
           --sitename "DaveMcPherson.dev" \
           --og.domain davemcpherson.dev \

@@ -36,7 +36,7 @@ jobs:
 
       - name: Install xlog
         run: |
-          go install github.com/emad-elsaid/xlog/cmd/xlog@latest
+          go install github.com/DMcP89/xlog/cmd/xlog@latest
 
       - name: Build
         run: |

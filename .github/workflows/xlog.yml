@@ -42,6 +42,7 @@ jobs:
         run: |
           xlog \
           -custom.head custom.head \
+          -custom.before_view custom.before_view \
           --build . \
           --sitename "DaveMcPherson.dev" \
           --og.domain davemcpherson.dev \

@@ -36,13 +36,14 @@ jobs:
 
       - name: Install xlog
         run: |
-          go install github.com/DMcP89/xlog/cmd/xlog@latest
+          go install github.com/emad-elsaid/xlog/cmd/xlog@latest
 
       - name: Build
         run: |
           xlog \
           -custom.head custom.head \
           -custom.before_view custom.before_view \
+          -disabled-exentions date \
           --build . \
           --sitename "DaveMcPherson.dev" \
           --og.domain davemcpherson.dev \

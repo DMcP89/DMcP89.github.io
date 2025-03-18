@@ -45,3 +45,9 @@
   border: 2px solid #ccc;/* Optional border */
   margin-right: 1rem;
 }
+
+.center {
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center;     /* Vertical centering */
+}

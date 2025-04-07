@@ -1,15 +1,15 @@
 # Dave McPherson
 <div class="profile-container">
 <img src="https://avatars.githubusercontent.com/u/4146149?v=4" class="profile-image" style="display: flex;"/>
-<p>
-I am a skilled engineer with over a decade of experience in complex distributed systems across diverse environments. Quick to adopt new technologies, I specialize in efficient, secure solutions and have an automation-first approach, designing build and deployment pipelines to optimize time-to-market, reduce outages, and ease maintenance.
-<br/>
-<br/>
+<p class="profile-text">
 <span style="padding-right: 5px;"><i class="fa-brands fa-github"></i> <a href="https://github.com/DMcP89">DMcP89</a></span>
 <span style="padding-right: 5px;"><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/davejmcpherson/">davejmcpherson</a></span>
 <i class="fa-solid fa-envelope"></i> <a href="mailto:dmcp89@gmail.com">dmcp89@gmail.com</a>
 </p>
 </div>
+<p>
+I am a skilled engineer with over a decade of experience in complex distributed systems across diverse environments. Quick to adopt new technologies, I specialize in efficient, secure solutions and have an automation-first approach, designing build and deployment pipelines to optimize time-to-market, reduce outages, and ease maintenance.
+</p>
 
 ---
 # Skills

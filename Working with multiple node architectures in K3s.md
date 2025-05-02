@@ -149,3 +149,6 @@ filebeat-filebeat-q4g8r         1/1     Running   5 (10d ago)      98d
 kibana-kibana-555ddb75f-sknz7   1/1     Running   7 (10d ago)      98d
 logstash-logstash-0             1/1     Running   2395 (19m ago)   98d
 ```
+
+
+#k3s #ELK #filebeats #armv7 #kubernetes #homelab

@@ -7,6 +7,10 @@
 This is my personal blog where I write about my experiences and thoughts on software development, technology, and anything else that might come to mind.
 
 ## Latest Posts
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://davemcpherson.dev/Working%20with%20multiple%20node%20architectures%20in%20K3s" data-iframely-url="//iframely.net/pG6VC1W"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
+<br/>
+
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://davemcpherson.dev/Vibe%20Coding%20is%20not%20a%20vibe" data-iframely-url="//iframely.net/hFbGqXG"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 <br/>

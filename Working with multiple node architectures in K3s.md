@@ -1,7 +1,7 @@
 I am in the process of rebuilding my home lab after neglecting it for the last few years. Originally it consisted of an old laptop and SBC running a kubernetes cluster using k3s, it was more for learning then actually hosting anything. But I recently got a new mini pc that makes the prospects of self hosting a few apps more viable. Now my cluster consists of 3 Nodes:
 
 - TRIGKEY Ryzen 7 Mini PC (x86_64)
-- Toshiba Satellite C855S5308 (x86_64)a
+- Toshiba Satellite C855S5308 (x86_64)
 - Odroid XU4 A15 (armv7l)
 
 I figured the best place to start with rebuilding my home lab would be with getting some sort of observability tool in place to make troubleshooting future deployments less of a pain. I decided to go with an [ELK stack](https://www.elastic.co/elastic-stack) as I have a lot of experience with it from my day job.
@@ -97,7 +97,7 @@ mage build
 
 ## Creating an image with our binary
 
-Now creating the image file is a bit trickier since we can't just copy Elastic's image file. But it would seem I am not the first person to run into this issue as I was able to find this [Medium post](https://edmondcck.medium.com/build-the-filebeat-docker-image-for-odroid-architecture-f9baec423d4b) going through a similar solution for odroid architecture. Now the article is using an older version of filebeats but we can rework it to fit our needs. First we need to copy a few files, including our new binary, into a directory so they can be easily copied to the docker image:
+Now creating the image file is a bit trickier since we can't just copy Elastic's image file. But it would seem I am not the first person to run into this issue as I was able to find this [Medium post](https://edmondcck.medium.com/build-the-filebeat-docker-image-for-odroid-architecture-f9baec423d4b) going through a similar solution for ppc64le architectures. Now the article is using an older version of filebeats but we can rework it to fit our needs. First we need to copy a few files, including our new binary, into a directory so they can be easily copied to the docker image:
 
 ```bash
 # while still in the beats/filebeat directory

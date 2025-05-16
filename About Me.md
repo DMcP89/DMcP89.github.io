@@ -8,9 +8,20 @@ I am a skilled engineer with over a decade of experience in complex distributed 
 I am availble for freelance prototyping, consulting, and development work. If you have a project you'd like to discuss, please [reach out](mailto:davemcpherson@wochstudios.com).
 
 ## Open source projects I am working on
-[![DMcP89/harambot - GitHub](https://gh-card.dev/repos/DMcP89/harambot.svg)](https://github.com/DMcP89/harambot) [![DMcP89/tinycare-tui - GitHub](https://gh-card.dev/repos/DMcP89/tinycare-tui.svg)](https://github.com/DMcP89/tinycare-tui) 
-[![DMcP89/todoist_cli - GitHub](https://gh-card.dev/repos/DMcP89/todoist_cli.svg)](https://github.com/DMcP89/todoist_cli) [![EchoVault/SugarDB - GitHub](https://gh-card.dev/repos/EchoVault/SugarDB.svg)](https://github.com/EchoVault/SugarDB) 
-[![spilchen/yahoo_fantasy_api - GitHub](https://gh-card.dev/repos/spilchen/yahoo_fantasy_api.svg)](https://github.com/spilchen/yahoo_fantasy_api) [![josuebrunel/yahoo-oauth - GitHub](https://gh-card.dev/repos/josuebrunel/yahoo-oauth.svg)](https://github.com/josuebrunel/yahoo-oauth) 
+https://github.com/DMcP89/harambot
 
+---
+https://github.com/DMcP89/tinycare-tui
+
+---
+https://github.com/EchoVault/SugarDB
+
+---
+https://github.com/spilchen/yahoo_fantasy_api
+
+---
+https://github.com/josuebrunel/yahoo-oauth
+
+---
 If you'd like to help support my open-source work please consider sponsoring me on GitHub.</p>
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/DMcP89)
